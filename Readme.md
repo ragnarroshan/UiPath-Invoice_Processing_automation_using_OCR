@@ -46,18 +46,17 @@ Write the extracted data (Invoice Number, Date, Total Amount) into specific cell
 Run the workflow and verify that the data has been extracted correctly and saved into the Excel file.
 
 ## UiPath WorkFlow:
-
-![alt text](<Screenshot 2024-10-12 201545.png>)
-![alt text](<Screenshot 2024-10-12 202115.png>)
-![alt text](<Screenshot 2024-10-12 203238.png>)
-![alt text](<Screenshot 2024-10-12 203929.png>)
-![alt text](<Screenshot 2024-10-12 204423.png>)
-![alt text](<Screenshot 2024-10-12 204452.png>)
-![alt text](<Screenshot 2024-10-12 204606.png>)
-![alt text](<Screenshot 2024-10-12 205632.png>)
-![alt text](<Screenshot 2024-10-12 205752.png>)
-![alt text](<Screenshot 2024-10-12 205924.png>)
-![alt text](<Screenshot 2024-10-12 210327.png>)
+![alt text](<img/Screenshot 2024-10-12 201545.png>)
+![alt text](<img/Screenshot 2024-10-12 202115.png>)
+![alt text](<img/Screenshot 2024-10-12 203238.png>)
+![alt text](<img/Screenshot 2024-10-12 203929.png>)
+![alt text](<img/Screenshot 2024-10-12 204423.png>)
+![alt text](<img/Screenshot 2024-10-12 204452.png>)
+![alt text](<img/Screenshot 2024-10-12 204606.png>)
+![alt text](<img/Screenshot 2024-10-12 205632.png>)
+![alt text](<img/Screenshot 2024-10-12 205752.png>)
+![alt text](<img/Screenshot 2024-10-12 205924.png>)
+![alt text](<img/Screenshot 2024-10-12 210327.png>)
 
 ## Result:
 
