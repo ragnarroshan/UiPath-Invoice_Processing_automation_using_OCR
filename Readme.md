@@ -38,7 +38,7 @@ Store the extracted values in variables.<br>
 
 ### Write Data to Excel:
 
-Use the Excel Application Scope activity to open or create an Excel file.<br>
+Use the Excel Applicationn Scope activity to open or create an Excel file.<br>
 Write the extracted data (Invoice Number, Date, Total Amount) into specific cells using Write Cell activity.<br>
 
 ### Run and Test:
